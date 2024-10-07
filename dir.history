@@ -1,0 +1,50 @@
+HIP
+{
+F:/huoxing_study/2302_05_houdini/week03/day01/yueshu/
+D:/Houdini_syudy_plan/Voxyde_anli/Project Files/Hip File/
+D:/Houdini_syudy_plan/stude_work/houdini_RBD_study_connest/
+D:/Houdini_syudy_plan/stude_work/pop_study_300/lizi_chongjibo/
+D:/Houdini_syudy_plan/stude_work/pop_study_300/anli/
+D:/Houdini_syudy_plan/stude_work/pop_study_300/anli/hudun/
+E:/Class/Voxyde/Voxyde-Houdini结合Nuke制作动画路径拖尾特效教程/工程/HIP/
+E:/Class/Houdini武器长矛火焰特效【hip工程】/Fire Spear Downloads/HIP/
+D:/Houdini_syudy_plan/Voxyde_anli/Anime_Run_Downloads/HIP/
+D:/obsidian/Houdini_note_allin/houdini_base_study/houdini_note_IDmg/wenjian_save/
+D:/houdini_work/trail_work/
+E:/Class/chinese_particle_class/课件安装程序插件等/课件和工程/
+}
+PIC
+{
+D:/Houdini_syudy_plan/
+$HIP/jpg/
+}
+GEO
+{
+$HIP/geo/
+D:/houdini_work/nuoman_pyro_study/USS Wasp LHD-1 Aircraft Carrier 3D Model/
+$HIP/geo/Ground_geren/$OS/
+$HIP/geo/$SO/
+$HIP/geo/$OS/
+$HIP/Assets/Layout/
+$HIP/Assets/Char/
+}
+OTL
+{
+C:/PROGRA~1/SIDEEF~1/HOUDIN~1.625/houdini/otls/
+C:/PROGRA~1/SIDEEF~1/HOUDIN~1.625/packages/apex/otls/
+C:/PROGRA~1/SIDEEF~1/HOUDIN~1.625/packages/kinefx/otls/
+C:/Program Files/Side Effects Software/sidefx_packages/SideFXLabs20.0/otls/
+C:/PROGRA~1/SIDEEF~1/HOUDIN~1.625/houdini/help/examples/nodes/sop/gluecluster/
+}
+MISC
+{
+$HIP/mx/
+$HIP/render/$OS/
+$HIP/Assets/Char/
+$HIP/render/Render01/$OS/
+}
+DIRECTORY
+{
+E:/houdini_huancun/
+E:/houdini_huancun/houdini_pop300_hudun_baohuzhao/
+}
